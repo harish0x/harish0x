@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harishankar 
-- 👀 I’m interested in cybersecurity,networking,OSINT.
-- Umm,Do something
+- 👀 I’m interested in cybersecurity, networking, OSINT.
+- Umm, Doing something
 
  <img align="center" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
